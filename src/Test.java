@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 
-
+/**
+ * Java Test Class
+ * @author buzz
+ *
+ */
 class Test {
 	
 	public static void main(String args[]){
